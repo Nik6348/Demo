@@ -1,0 +1,24 @@
+.color{
+   
+    /* Color-Name*/
+    color: red;
+    
+    /* RGB VALUE */
+    color:rgb(0,0,0);
+    color:rgb(255,255,255);
+    color:rgba(255,255,255,0.5);
+
+     /* HEX VALUE*/
+    color:#000000;
+    color: #ffffff;
+    
+     /* HSL VALUE */
+    color: hsl(0,100%,100%);
+    color: hsla(0,0%,0%,0.5);
+    
+    color: rgb(red, green, blue);
+    color: rgba(red, green, blue, alpha); 
+    color: hsl(hue, saturation, lightness);
+    color: hsla(hue, saturation, lightness, alpha);
+    color:hwb(hue white black);
+}
